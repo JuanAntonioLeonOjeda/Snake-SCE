@@ -1,0 +1,22 @@
+table {
+  background-color: rgb(0, 255, 0);
+  margin: auto;
+}
+
+body {
+  background-color: black;
+}
+
+td {
+  background-color: rgb(0, 100, 0);
+  width: 20px;
+  height: 20px;
+}
+
+.snake {
+  background-color: rgb(188, 46, 138);
+}
+
+.food {
+  background-color: red;
+}
